@@ -1,6 +1,10 @@
 # Everything "Poorly Translated" (by vilijur) 
 This is a list of all "poorly translated" projects I'm either working on or planning to work on. It also includes projects in limbo.
 
+# Completed Projects
+The following is a list of projects that have been completed, or are in a stable state:
+* None
+
 # Projects in active development
 The following is a list of projects in active development:
 * None
